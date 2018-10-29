@@ -1,5 +1,3 @@
-* USAGE:
-
      ```
      $ sh .pl drome_genes.gff drome_seq.fa    
      ```
